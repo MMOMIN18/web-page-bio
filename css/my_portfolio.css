@@ -1,0 +1,65 @@
+body{
+
+	background-image: url("/Users/mobinmomin/Desktop/Portfolio/Image/bg_img2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar{
+
+	color: #ffffff;
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+
+#mainNavbar .navbar-brand{
+	color: 	#ffffff;
+}
+
+#mainNavbar .nav-link{
+	color: 	#ffffff;
+}
+
+#mainNavbar .nav-link:hover{
+	color: 	#e60000;
+}
+
+/*#mainNavbar .navbar .navbar-toggler .icon-bar {
+  background-color: #e60000;
+}*/
+
+/*.navbar-toggler {
+	color : #7300e6;
+	border-color: #7300e6; 
+	border: 1px solid #7300e6;
+}*/
+
+/*.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,0,0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler .navbar-toggler {
+  border-color: rgb(255,0,0);
+} */
+
+/*.navbar-toggler{
+    width: 47px;
+    height: 34px;
+    background-color: #7eb444;
+    border:none;
+}
+.navbar-toggler .line{
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}*/
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,0,0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  border-color: rgb(255,0,0);
+
+}
