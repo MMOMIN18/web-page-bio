@@ -72,3 +72,17 @@ body{
 	color: #FAEBD7;
 	background: none;
 }
+
+#linkedin .nav-link:hover{
+	color: #0073b1;
+}
+
+#j_tron hr{
+	background-color: #DAA520;
+}
+
+#profile_img img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
