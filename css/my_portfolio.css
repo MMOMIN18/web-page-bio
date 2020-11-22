@@ -82,7 +82,15 @@ body{
 }
 
 #profile_img img{
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	border-radius: 50%;
+}
+
+#about {
+	color: #00FF00;
+}
+
+#about_me hr{
+	background-color: #DAA520;
 }
