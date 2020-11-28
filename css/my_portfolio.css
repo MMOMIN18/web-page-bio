@@ -77,7 +77,7 @@ body{
 	color: #0073b1;
 }
 
-#j_tron hr{
+hr{
 	background-color: #DAA520;
 }
 
@@ -94,3 +94,38 @@ body{
 #about_me hr{
 	background-color: #DAA520;
 }
+
+.jumbotron {
+	margin-top: 80px;
+}
+
+.navbar.scrolled {
+    background: #000000;
+    transition: background 200ms;
+}
+
+#education h1{
+	color: #FAEBD7;
+}
+
+.navbar-inverse .navbar-collapse {
+	background-color: #e60000
+}
+
+@media(max-width: 767px) {
+    .navbar {
+       background-color: #000000;
+    }
+}
+
+@media(max-width: 991px) {
+    #mainNavbar {
+       font-size: 1.3rem;
+       font-weight: 500;
+    }
+}
+
+
+
+
+
