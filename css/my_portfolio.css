@@ -1,10 +1,12 @@
 body{
 
-	background-image: url("/Users/mobinmomin/Desktop/Portfolio/Image/bg_img2.jpg");
+/*	background-image: url("/Users/mobinmomin/Desktop/Portfolio/Image/bg_img2.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: cover;*/
+	background-color: #000000; 
 	font-family: "Nunito", sans-serif;
+	color: 	#ffffff;
 }
 
 #mainNavbar{
